@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\SucessorAntecessor\bin\Debug\net6.0\SucessorAntecessor.exe
+C:\Users\Usuario\source\repos\SucessorAntecessor\bin\Debug\net6.0\SucessorAntecessor.deps.json
+C:\Users\Usuario\source\repos\SucessorAntecessor\bin\Debug\net6.0\SucessorAntecessor.runtimeconfig.json
+C:\Users\Usuario\source\repos\SucessorAntecessor\bin\Debug\net6.0\SucessorAntecessor.dll
+C:\Users\Usuario\source\repos\SucessorAntecessor\bin\Debug\net6.0\SucessorAntecessor.pdb
+C:\Users\Usuario\source\repos\SucessorAntecessor\obj\Debug\net6.0\SucessorAntecessor.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\SucessorAntecessor\obj\Debug\net6.0\SucessorAntecessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\SucessorAntecessor\obj\Debug\net6.0\SucessorAntecessor.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\SucessorAntecessor\obj\Debug\net6.0\SucessorAntecessor.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\SucessorAntecessor\obj\Debug\net6.0\SucessorAntecessor.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\SucessorAntecessor\obj\Debug\net6.0\SucessorAntecessor.dll
+C:\Users\Usuario\source\repos\SucessorAntecessor\obj\Debug\net6.0\refint\SucessorAntecessor.dll
+C:\Users\Usuario\source\repos\SucessorAntecessor\obj\Debug\net6.0\SucessorAntecessor.pdb
+C:\Users\Usuario\source\repos\SucessorAntecessor\obj\Debug\net6.0\SucessorAntecessor.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\SucessorAntecessor\obj\Debug\net6.0\ref\SucessorAntecessor.dll

@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\AreaDeCircunferencia\bin\Debug\net6.0\AreaDeCircunferencia.exe
+C:\Users\Usuario\source\repos\AreaDeCircunferencia\bin\Debug\net6.0\AreaDeCircunferencia.deps.json
+C:\Users\Usuario\source\repos\AreaDeCircunferencia\bin\Debug\net6.0\AreaDeCircunferencia.runtimeconfig.json
+C:\Users\Usuario\source\repos\AreaDeCircunferencia\bin\Debug\net6.0\AreaDeCircunferencia.dll
+C:\Users\Usuario\source\repos\AreaDeCircunferencia\bin\Debug\net6.0\AreaDeCircunferencia.pdb
+C:\Users\Usuario\source\repos\AreaDeCircunferencia\obj\Debug\net6.0\AreaDeCircunferencia.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\AreaDeCircunferencia\obj\Debug\net6.0\AreaDeCircunferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\AreaDeCircunferencia\obj\Debug\net6.0\AreaDeCircunferencia.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\AreaDeCircunferencia\obj\Debug\net6.0\AreaDeCircunferencia.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\AreaDeCircunferencia\obj\Debug\net6.0\AreaDeCircunferencia.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\AreaDeCircunferencia\obj\Debug\net6.0\AreaDeCircunferencia.dll
+C:\Users\Usuario\source\repos\AreaDeCircunferencia\obj\Debug\net6.0\refint\AreaDeCircunferencia.dll
+C:\Users\Usuario\source\repos\AreaDeCircunferencia\obj\Debug\net6.0\AreaDeCircunferencia.pdb
+C:\Users\Usuario\source\repos\AreaDeCircunferencia\obj\Debug\net6.0\AreaDeCircunferencia.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\AreaDeCircunferencia\obj\Debug\net6.0\ref\AreaDeCircunferencia.dll

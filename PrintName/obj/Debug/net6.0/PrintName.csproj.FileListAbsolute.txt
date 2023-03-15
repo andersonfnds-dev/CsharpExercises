@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\PrintName\bin\Debug\net6.0\PrintName.exe
+C:\Users\Usuario\source\repos\PrintName\bin\Debug\net6.0\PrintName.deps.json
+C:\Users\Usuario\source\repos\PrintName\bin\Debug\net6.0\PrintName.runtimeconfig.json
+C:\Users\Usuario\source\repos\PrintName\bin\Debug\net6.0\PrintName.dll
+C:\Users\Usuario\source\repos\PrintName\bin\Debug\net6.0\PrintName.pdb
+C:\Users\Usuario\source\repos\PrintName\obj\Debug\net6.0\PrintName.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\PrintName\obj\Debug\net6.0\PrintName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\PrintName\obj\Debug\net6.0\PrintName.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\PrintName\obj\Debug\net6.0\PrintName.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\PrintName\obj\Debug\net6.0\PrintName.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PrintName\obj\Debug\net6.0\PrintName.dll
+C:\Users\Usuario\source\repos\PrintName\obj\Debug\net6.0\refint\PrintName.dll
+C:\Users\Usuario\source\repos\PrintName\obj\Debug\net6.0\PrintName.pdb
+C:\Users\Usuario\source\repos\PrintName\obj\Debug\net6.0\PrintName.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\PrintName\obj\Debug\net6.0\ref\PrintName.dll

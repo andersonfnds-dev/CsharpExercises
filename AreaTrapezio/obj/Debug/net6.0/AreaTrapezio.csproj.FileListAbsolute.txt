@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\AreaTrapezio\bin\Debug\net6.0\AreaTrapezio.exe
+C:\Users\Usuario\source\repos\AreaTrapezio\bin\Debug\net6.0\AreaTrapezio.deps.json
+C:\Users\Usuario\source\repos\AreaTrapezio\bin\Debug\net6.0\AreaTrapezio.runtimeconfig.json
+C:\Users\Usuario\source\repos\AreaTrapezio\bin\Debug\net6.0\AreaTrapezio.dll
+C:\Users\Usuario\source\repos\AreaTrapezio\bin\Debug\net6.0\AreaTrapezio.pdb
+C:\Users\Usuario\source\repos\AreaTrapezio\obj\Debug\net6.0\AreaTrapezio.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\AreaTrapezio\obj\Debug\net6.0\AreaTrapezio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\AreaTrapezio\obj\Debug\net6.0\AreaTrapezio.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\AreaTrapezio\obj\Debug\net6.0\AreaTrapezio.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\AreaTrapezio\obj\Debug\net6.0\AreaTrapezio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\AreaTrapezio\obj\Debug\net6.0\AreaTrapezio.dll
+C:\Users\Usuario\source\repos\AreaTrapezio\obj\Debug\net6.0\refint\AreaTrapezio.dll
+C:\Users\Usuario\source\repos\AreaTrapezio\obj\Debug\net6.0\AreaTrapezio.pdb
+C:\Users\Usuario\source\repos\AreaTrapezio\obj\Debug\net6.0\AreaTrapezio.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\AreaTrapezio\obj\Debug\net6.0\ref\AreaTrapezio.dll

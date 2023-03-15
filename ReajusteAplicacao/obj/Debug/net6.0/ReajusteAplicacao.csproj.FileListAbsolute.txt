@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\ReajusteAplicacao\bin\Debug\net6.0\ReajusteAplicacao.exe
+C:\Users\Usuario\source\repos\ReajusteAplicacao\bin\Debug\net6.0\ReajusteAplicacao.deps.json
+C:\Users\Usuario\source\repos\ReajusteAplicacao\bin\Debug\net6.0\ReajusteAplicacao.runtimeconfig.json
+C:\Users\Usuario\source\repos\ReajusteAplicacao\bin\Debug\net6.0\ReajusteAplicacao.dll
+C:\Users\Usuario\source\repos\ReajusteAplicacao\bin\Debug\net6.0\ReajusteAplicacao.pdb
+C:\Users\Usuario\source\repos\ReajusteAplicacao\obj\Debug\net6.0\ReajusteAplicacao.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ReajusteAplicacao\obj\Debug\net6.0\ReajusteAplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\ReajusteAplicacao\obj\Debug\net6.0\ReajusteAplicacao.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ReajusteAplicacao\obj\Debug\net6.0\ReajusteAplicacao.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ReajusteAplicacao\obj\Debug\net6.0\ReajusteAplicacao.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ReajusteAplicacao\obj\Debug\net6.0\ReajusteAplicacao.dll
+C:\Users\Usuario\source\repos\ReajusteAplicacao\obj\Debug\net6.0\refint\ReajusteAplicacao.dll
+C:\Users\Usuario\source\repos\ReajusteAplicacao\obj\Debug\net6.0\ReajusteAplicacao.pdb
+C:\Users\Usuario\source\repos\ReajusteAplicacao\obj\Debug\net6.0\ReajusteAplicacao.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\ReajusteAplicacao\obj\Debug\net6.0\ref\ReajusteAplicacao.dll

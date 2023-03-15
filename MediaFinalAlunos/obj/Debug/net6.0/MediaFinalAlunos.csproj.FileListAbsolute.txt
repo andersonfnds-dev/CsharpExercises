@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\MediaFinalAlunos\obj\Debug\net6.0\MediaFinalAlunos.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\MediaFinalAlunos\obj\Debug\net6.0\MediaFinalAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\MediaFinalAlunos\obj\Debug\net6.0\MediaFinalAlunos.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\MediaFinalAlunos\obj\Debug\net6.0\MediaFinalAlunos.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\MediaFinalAlunos\obj\Debug\net6.0\MediaFinalAlunos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\MediaFinalAlunos\bin\Debug\net6.0\MediaFinalAlunos.exe
+C:\Users\Usuario\source\repos\MediaFinalAlunos\bin\Debug\net6.0\MediaFinalAlunos.deps.json
+C:\Users\Usuario\source\repos\MediaFinalAlunos\bin\Debug\net6.0\MediaFinalAlunos.runtimeconfig.json
+C:\Users\Usuario\source\repos\MediaFinalAlunos\bin\Debug\net6.0\MediaFinalAlunos.dll
+C:\Users\Usuario\source\repos\MediaFinalAlunos\bin\Debug\net6.0\MediaFinalAlunos.pdb
+C:\Users\Usuario\source\repos\MediaFinalAlunos\obj\Debug\net6.0\MediaFinalAlunos.dll
+C:\Users\Usuario\source\repos\MediaFinalAlunos\obj\Debug\net6.0\refint\MediaFinalAlunos.dll
+C:\Users\Usuario\source\repos\MediaFinalAlunos\obj\Debug\net6.0\MediaFinalAlunos.pdb
+C:\Users\Usuario\source\repos\MediaFinalAlunos\obj\Debug\net6.0\MediaFinalAlunos.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\MediaFinalAlunos\obj\Debug\net6.0\ref\MediaFinalAlunos.dll
